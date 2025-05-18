@@ -119,10 +119,6 @@ This script automatically:
 For more tools, tips, and updates, join our Telegram channel:
 [@NotePadVPN](https://t.me/NotePadVPN)
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgements
 
 Original code source: [Linux-Optimizer](https://github.com/hawshemi/Linux-Optimizer)
@@ -133,6 +129,3 @@ Original code source: [Linux-Optimizer](https://github.com/hawshemi/Linux-Optimi
   <b>Supercharge your Xray-Core server today!</b><br>
   <a href="https://t.me/NotePadVPN">@NotePadVPN</a>
 </p>
-
-Citations:
-[1] xray-optimizer.sh https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/773692/f3dd13ba-1d5d-4736-a1f6-8085aed4660e/xray-optimizer.sh
