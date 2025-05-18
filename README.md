@@ -83,17 +83,7 @@ This optimizer addresses critical performance bottlenecks in Linux servers runni
 ## 📋 Installation
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/xray-optimizer.git
-
-# Navigate to the directory
-cd xray-optimizer
-
-# Make the script executable
-chmod +x optimize.sh
-
-# Run the script (requires root privileges)
-sudo ./optimize.sh
+sudo bash <(curl -s https://raw.githubusercontent.com/FReak4L/xray-tuning/refs/heads/main/tune.sh)
 ```
 
 ## ⚙️ What It Does
